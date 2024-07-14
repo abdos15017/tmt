@@ -1,0 +1,21 @@
+[debug] [2024-07-14T16:21:57.861Z] ----------------------------------------------------------------------
+[debug] [2024-07-14T16:21:57.868Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\hp\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-07-14T16:21:57.870Z] CLI Version:   13.13.2
+[debug] [2024-07-14T16:21:57.870Z] Platform:      win32
+[debug] [2024-07-14T16:21:57.870Z] Node Version:  v20.15.1
+[debug] [2024-07-14T16:21:57.871Z] Time:          Sun Jul 14 2024 16:21:57 GMT+0000 (Greenwich Mean Time)
+[debug] [2024-07-14T16:21:57.871Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-14T16:21:57.888Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-07-14T16:21:57.890Z] > authorizing via signed-in user (a.abdou15017@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\hp\Documents\FlexStart\FlexStart
+
